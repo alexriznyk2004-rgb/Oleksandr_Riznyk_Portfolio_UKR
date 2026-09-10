@@ -21,9 +21,9 @@ export function Experience() {
       <div className="px-6 pt-24 md:px-12 md:pt-32">
         <div className="mx-auto flex max-w-[1400px] flex-col gap-6 md:flex-row md:items-end md:justify-between">
           <div className="flex flex-col gap-8">
-            <SectionLabel index="02" title="Experience" />
+            <SectionLabel index="02" title="Досвід" />
             <h2 className="font-sans text-5xl font-extrabold tracking-tight md:text-6xl">
-              Work Experience
+              Досвід роботи
             </h2>
           </div>
           <p className="label hidden text-muted-foreground md:block">Scroll →</p>
