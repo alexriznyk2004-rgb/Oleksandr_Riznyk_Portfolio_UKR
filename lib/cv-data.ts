@@ -57,12 +57,12 @@ export const skills = {
   ],
   tools: ['3ds Max', 'Corona Renderer', 'ArchiCAD', 'Adobe Photoshop', 'Adobe Substance 3D'],
   methods: [
-    'Materials & Texturing',
-    'Lighting',
-    'Composition',
-    'Post-Production',
-    'Technical Drawings',
-    '3D Scanning',
+    'Робота з матеріалами та текстурами',
+    'Налаштування та опрацювання освітлення',
+    'Побудова та опрацювання композиції',
+    'Постобробка візуалізацій',
+    'Розробка технічних креслень',
+    '3D-сканування',
   ],
 }
 
