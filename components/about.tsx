@@ -19,7 +19,7 @@ export function About() {
       <div className="mx-auto max-w-[1400px]">
         <SectionLabel index="05" title="About" />
         <h2 className="mt-8 font-sans text-5xl font-extrabold tracking-tight md:text-6xl">
-          About Me
+          Про мене
         </h2>
 
         <div className="mt-14 grid gap-12 md:grid-cols-12">
