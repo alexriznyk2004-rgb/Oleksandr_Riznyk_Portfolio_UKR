@@ -16,7 +16,7 @@ export function Profile() {
   return (
     <section id="profile" className="scroll-mt-24 px-6 py-24 md:px-12 md:py-40">
       <div className="mx-auto max-w-[1400px]">
-        <SectionLabel index="01" title="Profile" />
+        <SectionLabel index="01" title="Профіль" />
         <p className="mt-10 max-w-6xl font-sans text-[7vw] font-medium leading-[1.12] tracking-tight md:mt-14 md:text-5xl md:leading-[1.15]">
           {fragments.map((f, i) => (
             <motion.span
