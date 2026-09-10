@@ -38,7 +38,7 @@ export const experience = [
 ]
 
 export const education = {
-  school: 'Івано-Франківський національний технічний університет нафти і газу.',
+  school: 'Івано-Франківський національний технічний університет нафти і газу',
   degree: 'Ступінь бакалавра за спеціальністю «Архітектура»',
   description:
     'Здобув ступінь бакалавра за спеціальністю «Архітектура», зосереджуючись на архітектурному проєктуванні, 3D-моделюванні, дизайні інтер’єру та фотореалістичній візуалізації. Маю досвід розробки архітектурних концепцій, технічних креслень і візуальних презентацій із використанням професійного програмного забезпечення.',
@@ -47,23 +47,23 @@ export const education = {
 export const skills = {
   expertise: [
     'Architectural Visualization',
-    'Interior Visualization',
-    'Product Visualization',
-    'Furniture Visualization',
-    '3D Modeling',
-    'Photorealistic Rendering',
-    'Interior Design',
-    'Showroom Design',
-    'Furniture Design',
+    'Візуалізація інтер’єрів',
+    'Візуалізація продукції',
+    'Візуалізація меблів',
+    '3D-моделювання',
+    'Фотореалістичний рендеринг',
+    'Дизайн інтер’єру',
+    'Дизайн меблів',
   ],
   tools: ['3ds Max', 'Corona Renderer', 'ArchiCAD', 'Adobe Photoshop', 'Adobe Substance 3D'],
   methods: [
-    'Materials & Texturing',
-    'Lighting',
-    'Composition',
-    'Post-Production',
-    'Technical Drawings',
-    '3D Scanning',
+    'Робота з матеріалами та текстурами',
+    'Налаштування та опрацювання освітлення',
+    'Побудова композиції',
+    'Постобробка',
+    'Постобробка візуалізацій',
+    'Розробка технічних креслень'
+    'Створення 3D-моделей на основі даних 3D-сканування',
   ],
 }
 
