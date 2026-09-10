@@ -16,9 +16,9 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Oleksandr Riznyk — CG Artist / 3D Visualizer / Interior Designer',
+  title: 'Олександр Різник — CG Artist / 3D Visualizer / Interior Designer',
   description:
-    'Portfolio & CV of Oleksandr Riznyk — a 3D Visualizer and Interior Designer specializing in photorealistic architectural and product visualization.',
+    'CV Олександра Різника — дизайнера інтер’єру та 3D-візуалізатора, що спеціалізується на фотореалістичній архітектурній та продуктовій візуалізації.',
   generator: 'v0.app',
 }
 
