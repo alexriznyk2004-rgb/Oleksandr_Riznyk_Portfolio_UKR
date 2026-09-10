@@ -5,11 +5,11 @@ import { SectionLabel } from '@/components/section-label'
 
 // The statement is broken into fragments so specific phrases can be emphasized.
 const fragments: { text: string; tone?: 'muted' | 'accent' }[] = [
-  { text: 'I\u2019m a 3D Visualizer and Interior Designer specializing in ' },
-  { text: 'photorealistic architectural and product visualization', tone: 'muted' },
-  { text: '. I create high-quality visuals for interiors, architecture, furniture, and product design, with a strong focus on ' },
-  { text: 'materials, lighting, composition, and detail', tone: 'accent' },
-  { text: '. Currently open to new opportunities in visualization and interior design.' },
+  { text: 'Я дизайнер інтер’єру та 3D-візуалізатор, який спеціалізується на ' },
+  { text: 'фотореалістичній візуалізації інтер’єрів та архітектури.', tone: 'muted' },
+  { text: 'Створюю високоякісні візуалізації інтер’єрів, архітектури, меблів і продукції, приділяючи особливу увагу. ' },
+  { text: 'з особливим акцентом на матеріали, освітлення, композицію та деталізацію', tone: 'accent' },
+  { text: 'Відкритий до нових професійних можливостей у сфері дизайну інтер’єру та візуалізації.' },
 ]
 
 export function Profile() {
