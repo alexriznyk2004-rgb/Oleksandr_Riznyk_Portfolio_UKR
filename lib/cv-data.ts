@@ -67,10 +67,10 @@ export const skills = {
 }
 
 export const about = [
-  'I am a 3D Visualizer and Interior Designer with a background in art, architecture, and analytical thinking. My early education at an art school developed my understanding of drawing and composition, while studying at a physics and mathematics lyceum strengthened my logical and technical approach to creative tasks.',
-  'Currently pursuing a Bachelor\u2019s degree in Architecture, I have developed strong spatial thinking and a solid understanding of architectural principles, proportions, composition, and interior environments.',
-  'Alongside my studies, I have gained professional experience creating photorealistic architectural, interior, furniture, and product visualizations, developing 3D models, and designing furniture showrooms from concept to visualization and technical documentation. My work has been used as marketing and sales material and has supported showroom development and product promotion.',
-  'I enjoy running and strength training, which help me maintain focus, discipline, and a clear mind.',
+  'Я дизайнер інтер’єру та 3D-візуалізатор із професійним досвідом у розробці інтер’єрних концепцій, фотореалістичній візуалізації та 3D-моделюванні. Поєдную художнє бачення, архітектурну підготовку та технічний підхід для створення продуманих і візуально виразних просторів. Особливу увагу приділяю композиції, пропорціям, матеріалам, освітленню та деталям, що формують цілісне сприйняття інтер’єру.',
+  'Здобув ступінь бакалавра за спеціальністю «Архітектура», що дозволило розвинути просторове мислення та ґрунтовне розуміння принципів архітектури, пропорцій, композиції та формування інтер’єрного середовища.',
+  'Паралельно з навчанням набув професійного досвіду у розробці концепцій та дизайні житлових і комерційних інтер’єрів — від аналізу простору, функціонального зонування та підбору матеріалів до створення візуальних концепцій і технічної документації. Також працював над створенням фотореалістичних архітектурних, інтер’єрних, меблевих і продуктових візуалізацій, розробкою 3D-моделей та проєктуванням меблевих шоурумів. Мої роботи використовувалися як маркетингові та рекламні матеріали, а також сприяли розвитку шоурумів і просуванню продукції.',
+  '',
 ]
 
 export const nav = [
