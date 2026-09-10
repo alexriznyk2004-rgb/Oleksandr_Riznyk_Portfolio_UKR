@@ -6,7 +6,7 @@ export function Education() {
   return (
     <section id="education" className="scroll-mt-24 px-6 py-24 md:px-12 md:py-40">
       <div className="mx-auto max-w-[1400px]">
-        <SectionLabel index="03" title="Education" />
+        <SectionLabel index="03" title="Освіта" />
         <div className="mt-12 grid gap-10 border-t border-line pt-12 md:grid-cols-12">
           <Reveal className="md:col-span-6" as="div">
             <h3 className="font-sans text-3xl font-bold leading-tight tracking-tight text-balance md:text-5xl">
