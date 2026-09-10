@@ -3,9 +3,9 @@ import { Reveal } from '@/components/reveal'
 import { SectionLabel } from '@/components/section-label'
 
 const columns = [
-  { title: 'Expertise', items: skills.expertise },
-  { title: 'Tools', items: skills.tools },
-  { title: 'Methods', items: skills.methods },
+  { title: 'Компетенції', items: skills.expertise },
+  { title: 'Інструменти', items: skills.tools },
+  { title: 'Методи роботи', items: skills.methods },
 ]
 
 export function Skills() {
@@ -16,7 +16,7 @@ export function Skills() {
           <div className="flex flex-col items-start gap-8 md:items-end">
             <SectionLabel index="04" title="Skills" />
             <h2 className="font-sans text-5xl font-extrabold tracking-tight md:text-6xl">
-              Professional Skills
+              Професійні навички
             </h2>
           </div>
         </div>
