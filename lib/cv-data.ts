@@ -25,23 +25,23 @@ export const experience = [
     year: '2024',
     company: 'MBA Development Group',
     title: '3D Visualizer & Interior Designer',
-    period: 'October 2024 – May 2025',
+    period: 'Жовтень 2024 – Травень 2025',
     bullets: [
-      'Created high-end photorealistic visualizations of residential and commercial interiors, focusing on realistic materials, lighting, composition, and overall atmosphere.',
-      'Developed interior design concepts based on project requirements, functionality, aesthetics, and architectural characteristics.',
-      'Created detailed 3D models of interiors, furniture, architectural elements, and custom features for visualization and presentation.',
-      'Selected materials, finishes, colors, furniture, and decorative elements to develop cohesive interior concepts.',
-      'Prepared design presentations and visual materials to communicate concepts and support client decision-making.',
-      'Developed technical drawings and documentation, including furniture layouts, lighting plans, and custom interior elements.',
+      'Розробляв фотореалістичні візуалізації житлових і комерційних інтер’єрів, опрацьовуючи матеріали, освітлення, композицію та атмосферу відповідно до концепції дизайну.',
+      'Розробляв концепції дизайну інтер’єру відповідно до вимог проєкту, функціональних потреб, естетики та архітектурних особливостей простору.',
+      'Створював детальні 3D-сцени інтер’єрів, меблів, архітектурних елементів та індивідуальних конструкцій для візуалізації й презентації дизайн-рішень.',
+      'Підбирав матеріали, оздоблення, кольорові рішення, меблі та декоративні елементи для формування цілісної концепції інтер’єру.',
+      'Розробляв презентації та візуальні матеріали для ефективної комунікації дизайн-концепцій і підтримки процесу прийняття рішень клієнтами.',
+      'Розробляв робочі креслення та проєктну документацію, включаючи плани розміщення меблів, плани освітлення та креслення індивідуальних елементів інтер’єру.',
     ],
   },
 ]
 
 export const education = {
-  school: 'Ivano-Frankivsk National Technical University of Oil and Gas',
-  degree: 'Bachelor of Architecture — 4th Year',
+  school: 'Івано-Франківський національний технічний університет нафти і газу.',
+  degree: 'Ступінь бакалавра за спеціальністю «Архітектура»',
   description:
-    'Currently pursuing a Bachelor\u2019s degree in Architecture, with a focus on architectural design, 3D modeling, interior design, and photorealistic visualization. Experienced in developing architectural concepts, technical drawings, and visual presentations using industry-standard software.',
+    'Здобув ступінь бакалавра за спеціальністю «Архітектура», зосереджуючись на архітектурному проєктуванні, 3D-моделюванні, дизайні інтер’єру та фотореалістичній візуалізації. Маю досвід розробки архітектурних концепцій, технічних креслень і візуальних презентацій із використанням професійного програмного забезпечення.',
 }
 
 export const skills = {
