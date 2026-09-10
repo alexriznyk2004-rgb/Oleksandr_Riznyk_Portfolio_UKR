@@ -46,23 +46,23 @@ export const education = {
 export const skills = {
   expertise: [
     'Architectural Visualization',
-    'Візуалізація інтер’єрів',
-    'Візуалізація продукції',
-    'Візуалізація меблів',
-    '3D-моделювання',
-    'Фотореалістичний рендеринг',
-    'Дизайн інтер’єру',
-    'Дизайн меблів',
+    'Interior Visualization',
+    'Product Visualization',
+    'Furniture Visualization',
+    '3D Modeling',
+    'Photorealistic Rendering',
+    'Interior Design',
+    'Showroom Design',
+    'Furniture Design',
   ],
   tools: ['3ds Max', 'Corona Renderer', 'ArchiCAD', 'Adobe Photoshop', 'Adobe Substance 3D'],
   methods: [
-    'Робота з матеріалами та текстурами',
-    'Налаштування та опрацювання освітлення',
-    'Побудова композиції',
-    'Постобробка',
-    'Постобробка візуалізацій',
-    'Розробка технічних креслень'
-    'Створення 3D-моделей на основі даних 3D-сканування',
+    'Materials & Texturing',
+    'Lighting',
+    'Composition',
+    'Post-Production',
+    'Technical Drawings',
+    '3D Scanning',
   ],
 }
 
