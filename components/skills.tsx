@@ -14,7 +14,7 @@ export function Skills() {
       <div className="mx-auto max-w-[1400px]">
         <div className="flex justify-end">
           <div className="flex flex-col items-start gap-8 md:items-end">
-            <SectionLabel index="04" title="Skills" />
+            <SectionLabel index="04" title="Навички" />
             <h2 className="font-sans text-5xl font-extrabold tracking-tight md:text-6xl">
               Професійні навички
             </h2>
