@@ -22,8 +22,8 @@ export function Contact() {
       <div className="mx-auto flex min-h-svh max-w-[1400px] flex-col justify-between px-6 py-24 md:px-12 md:py-28">
         {/* top row */}
         <div className="flex items-center justify-between">
-          <span className="label text-ink-muted">(06) — Contact</span>
-          <span className="label text-ink-muted">Open to opportunities</span>
+          <span className="label text-ink-muted">(06) — Контактні дані</span>
+          <span className="label text-ink-muted">Відкритий до нових пропозицій</span>
         </div>
 
         {/* headline */}
