@@ -1,6 +1,6 @@
 export const person = {
-  firstName: 'Oleksandr',
-  lastName: 'Riznyk',
+  firstName: 'Олександр',
+  lastName: 'Різник',
   role: 'CG Artist / 3D Visualizer / Interior Designer',
   location: 'Ivano-Frankivsk, UA',
   year: '2026',
@@ -74,10 +74,10 @@ export const about = [
 ]
 
 export const nav = [
-  { id: 'profile', label: '(01) Profile' },
-  { id: 'experience', label: '(02) Experience' },
-  { id: 'education', label: '(03) Education' },
-  { id: 'skills', label: '(04) Skills' },
-  { id: 'about', label: '(05) About' },
-  { id: 'contact', label: '(06) Contact' },
+  { id: 'profile', label: '(01) Профіль' },
+  { id: 'experience', label: '(02) Досвід' },
+  { id: 'education', label: '(03) Освіта' },
+  { id: 'skills', label: '(04) Навички' },
+  { id: 'about', label: '(05) Про мене' },
+  { id: 'contact', label: '(06) Контакти' },
 ]
